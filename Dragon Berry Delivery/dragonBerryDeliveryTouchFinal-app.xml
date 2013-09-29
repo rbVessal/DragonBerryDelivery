@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.6">
+    <id>DragonBerryDelivery</id>
+    <versionNumber>1.0</versionNumber>
+    <filename>dragonBerryDeliveryTouchFinal</filename>
+    <description/>
+    
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+    <name>DragonBerryDelivery</name>
+    
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+    <copyright/>
+    <initialWindow>
+        <content>dragonBerryDeliveryTouchFinal.swf</content>
+        <systemChrome>standard</systemChrome>
+        <transparent>false</transparent>
+        <visible>true</visible>
+        <fullScreen>true</fullScreen>
+        <aspectRatio>landscape</aspectRatio>
+        <renderMode>auto</renderMode>
+        <autoOrients>false</autoOrients>
+    </initialWindow>
+    <icon>
+    <image29x29>dragonIcon.png</image29x29>
+    <image57x57>dragonMedIcon.png</image57x57>
+    <image114x114>dragonMed2Icon.png</image114x114>
+    <image48x48>dragonIcon48.png</image48x48>
+    <image72x72>dragonIcon72.png</image72x72>
+    <image512x512>dragonIcon512.png</image512x512>
+    <image36x36>AppIconsForPublish/dragonIcon36.png</image36x36>
+  </icon>
+    <customUpdateUI>false</customUpdateUI>
+    <allowBrowserInvocation>false</allowBrowserInvocation>
+    <iPhone>
+        <InfoAdditions>
+      
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <![CDATA[<key>UIDeviceFamily</key><array><string>1</string><string>2</string></array>]]>
+    </InfoAdditions>
+        <requestedDisplayResolution>standard</requestedDisplayResolution>
+    </iPhone>
+    <android>
+        <manifestAdditions>
+      
+      <![CDATA[<manifest>
+</manifest>]]>
+    </manifestAdditions>
+    </android>
+    <versionLabel>1.0</versionLabel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</application>
